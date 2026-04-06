@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # LeakLoom
 Real-time, application-layer IDS for HealthTech/FinTech. Detects authorized insider data exfiltration with sliding-window analytics, dynamic threat scoring, and live SSE dashboard.
 =======
@@ -118,4 +117,4 @@ cd leakloom
 python3 run_demo.py
 ```
 *(Automatically processes logs, generates analytical reports natively across `/logs/` and `/dashboard/`, and begins broadcasting at `http://localhost:8080`).*
->>>>>>> a4aa3ee (Initial commit: LeakLoom V3 project structure with dashboard and core logic)
+
