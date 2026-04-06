@@ -1,0 +1,6 @@
+timestamp,user_id,threat_score,reason,total_bytes,records_count,breakdown,rolling_hash
+2026-04-06T11:40:47.344719Z,dr_smith_2,77,Deviation from dynamic baseline or volume exceeded,444780821,21,"{""volume"": 29, ""frequency"": 25, ""sensitivity"": 20, ""anomaly"": 2}",1e5ee8d3e72c75ceb116c6978cb1aaaea42efb028c39c7a60a578303d35687b4
+2026-04-06T11:41:14.633962Z,nurse_joy_7,47,Deviation from dynamic baseline or volume exceeded,264696,21,"{""volume"": 0, ""frequency"": 25, ""sensitivity"": 20, ""anomaly"": 2}",aae78b2bbe39a43f64fab930420ea7c2db30743831b80728c4e8342d45b5f732
+2026-04-06T11:41:15.019729Z,nurse_joy_5,47,Deviation from dynamic baseline or volume exceeded,281067,21,"{""volume"": 0, ""frequency"": 25, ""sensitivity"": 20, ""anomaly"": 2}",89ddbc385dec04316e61e83accf7580175b174997361eb5b912bef8ed9059d0b
+2026-04-06T11:41:19.907227Z,nurse_joy_9,47,Deviation from dynamic baseline or volume exceeded,310800,21,"{""volume"": 0, ""frequency"": 25, ""sensitivity"": 20, ""anomaly"": 2}",b7cc4fd0197196acf1f7924f59e06338df560245fe5745a6e1fcc2dc81b854d3
+2026-04-06T11:41:20.245203Z,dr_smith_3,47,Deviation from dynamic baseline or volume exceeded,313215,21,"{""volume"": 0, ""frequency"": 25, ""sensitivity"": 20, ""anomaly"": 2}",a7c8441ce85e114d731af8c8c94fc41aabb47f6507c5c4b27c0a817344829d89

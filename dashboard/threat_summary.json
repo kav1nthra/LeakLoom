@@ -1,0 +1,1138 @@
+{
+    "total_users": 103,
+    "users": [
+        {
+            "user_id": "SUBJECT_99_CRITICAL",
+            "max_threat_score": 82,
+            "flag_count": 1,
+            "subscores": {
+                "volume": 35,
+                "frequency": 25,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "SUBJECT_77_OMEGA",
+            "max_threat_score": 52,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 35,
+                "frequency": 0,
+                "sensitivity": 13,
+                "anomaly": 4
+            }
+        },
+        {
+            "user_id": "SUBJECT_42_ALPHA",
+            "max_threat_score": 47,
+            "flag_count": 1,
+            "subscores": {
+                "volume": 0,
+                "frequency": 25,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_41",
+            "max_threat_score": 36,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 13,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_17",
+            "max_threat_score": 34,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 12,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_74",
+            "max_threat_score": 33,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 11,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_27",
+            "max_threat_score": 32,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 2,
+                "sensitivity": 20,
+                "anomaly": 10
+            }
+        },
+        {
+            "user_id": "user_6",
+            "max_threat_score": 32,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 10,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_72",
+            "max_threat_score": 32,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 10,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_7",
+            "max_threat_score": 32,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 10,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_40",
+            "max_threat_score": 32,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 8,
+                "sensitivity": 20,
+                "anomaly": 3
+            }
+        },
+        {
+            "user_id": "user_24",
+            "max_threat_score": 32,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 2,
+                "sensitivity": 20,
+                "anomaly": 10
+            }
+        },
+        {
+            "user_id": "user_78",
+            "max_threat_score": 32,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 8,
+                "sensitivity": 20,
+                "anomaly": 3
+            }
+        },
+        {
+            "user_id": "user_12",
+            "max_threat_score": 32,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 10,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_29",
+            "max_threat_score": 31,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 1,
+                "sensitivity": 20,
+                "anomaly": 10
+            }
+        },
+        {
+            "user_id": "user_39",
+            "max_threat_score": 31,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 8,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_53",
+            "max_threat_score": 31,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 1,
+                "sensitivity": 20,
+                "anomaly": 9
+            }
+        },
+        {
+            "user_id": "user_9",
+            "max_threat_score": 31,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 2,
+                "sensitivity": 20,
+                "anomaly": 8
+            }
+        },
+        {
+            "user_id": "user_47",
+            "max_threat_score": 31,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 8,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_90",
+            "max_threat_score": 31,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 8,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_45",
+            "max_threat_score": 31,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 8,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_46",
+            "max_threat_score": 31,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 8,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_16",
+            "max_threat_score": 31,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 2,
+                "sensitivity": 20,
+                "anomaly": 9
+            }
+        },
+        {
+            "user_id": "user_75",
+            "max_threat_score": 31,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 8,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_91",
+            "max_threat_score": 31,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 8,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_21",
+            "max_threat_score": 31,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 1,
+                "sensitivity": 20,
+                "anomaly": 10
+            }
+        },
+        {
+            "user_id": "user_32",
+            "max_threat_score": 31,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 8,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_77",
+            "max_threat_score": 31,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 8,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_38",
+            "max_threat_score": 31,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 8,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_69",
+            "max_threat_score": 30,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 7,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_18",
+            "max_threat_score": 30,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 7,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_25",
+            "max_threat_score": 30,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 7,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_64",
+            "max_threat_score": 30,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 7,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_61",
+            "max_threat_score": 30,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 5,
+                "sensitivity": 20,
+                "anomaly": 5
+            }
+        },
+        {
+            "user_id": "user_28",
+            "max_threat_score": 30,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 7,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_55",
+            "max_threat_score": 30,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 1,
+                "sensitivity": 20,
+                "anomaly": 9
+            }
+        },
+        {
+            "user_id": "user_59",
+            "max_threat_score": 30,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 7,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_97",
+            "max_threat_score": 30,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 7,
+                "sensitivity": 20,
+                "anomaly": 3
+            }
+        },
+        {
+            "user_id": "user_88",
+            "max_threat_score": 30,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 7,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_54",
+            "max_threat_score": 30,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 7,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_19",
+            "max_threat_score": 29,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 2,
+                "sensitivity": 20,
+                "anomaly": 6
+            }
+        },
+        {
+            "user_id": "user_52",
+            "max_threat_score": 29,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 7,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_100",
+            "max_threat_score": 29,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 6,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_80",
+            "max_threat_score": 29,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 7,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_65",
+            "max_threat_score": 29,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 1,
+                "sensitivity": 20,
+                "anomaly": 8
+            }
+        },
+        {
+            "user_id": "user_31",
+            "max_threat_score": 29,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 7,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_87",
+            "max_threat_score": 29,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 7,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_23",
+            "max_threat_score": 28,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 2,
+                "sensitivity": 20,
+                "anomaly": 5
+            }
+        },
+        {
+            "user_id": "user_33",
+            "max_threat_score": 28,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 5,
+                "sensitivity": 20,
+                "anomaly": 3
+            }
+        },
+        {
+            "user_id": "user_35",
+            "max_threat_score": 28,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 6,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_85",
+            "max_threat_score": 28,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 6,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_10",
+            "max_threat_score": 28,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 6,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_4",
+            "max_threat_score": 28,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 1,
+                "sensitivity": 20,
+                "anomaly": 6
+            }
+        },
+        {
+            "user_id": "user_66",
+            "max_threat_score": 28,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 6,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_13",
+            "max_threat_score": 28,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 1,
+                "sensitivity": 20,
+                "anomaly": 7
+            }
+        },
+        {
+            "user_id": "user_20",
+            "max_threat_score": 28,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 6,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_37",
+            "max_threat_score": 28,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 6,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_68",
+            "max_threat_score": 28,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 5,
+                "sensitivity": 20,
+                "anomaly": 3
+            }
+        },
+        {
+            "user_id": "user_51",
+            "max_threat_score": 28,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 6,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_15",
+            "max_threat_score": 28,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 1,
+                "sensitivity": 20,
+                "anomaly": 7
+            }
+        },
+        {
+            "user_id": "user_56",
+            "max_threat_score": 28,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 1,
+                "sensitivity": 20,
+                "anomaly": 6
+            }
+        },
+        {
+            "user_id": "user_3",
+            "max_threat_score": 28,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 6,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_62",
+            "max_threat_score": 28,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 6,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_95",
+            "max_threat_score": 28,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 6,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_22",
+            "max_threat_score": 28,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 1,
+                "sensitivity": 20,
+                "anomaly": 7
+            }
+        },
+        {
+            "user_id": "user_67",
+            "max_threat_score": 28,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 6,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_58",
+            "max_threat_score": 28,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 6,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_8",
+            "max_threat_score": 28,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 1,
+                "sensitivity": 20,
+                "anomaly": 7
+            }
+        },
+        {
+            "user_id": "user_84",
+            "max_threat_score": 28,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 1,
+                "sensitivity": 20,
+                "anomaly": 6
+            }
+        },
+        {
+            "user_id": "user_2",
+            "max_threat_score": 28,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 6,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_30",
+            "max_threat_score": 28,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 6,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_98",
+            "max_threat_score": 28,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 5,
+                "sensitivity": 20,
+                "anomaly": 3
+            }
+        },
+        {
+            "user_id": "user_71",
+            "max_threat_score": 28,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 5,
+                "sensitivity": 20,
+                "anomaly": 3
+            }
+        },
+        {
+            "user_id": "user_48",
+            "max_threat_score": 28,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 6,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_14",
+            "max_threat_score": 28,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 5,
+                "sensitivity": 20,
+                "anomaly": 3
+            }
+        },
+        {
+            "user_id": "user_96",
+            "max_threat_score": 28,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 6,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_82",
+            "max_threat_score": 27,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 3,
+                "sensitivity": 20,
+                "anomaly": 3
+            }
+        },
+        {
+            "user_id": "user_73",
+            "max_threat_score": 27,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 3,
+                "sensitivity": 20,
+                "anomaly": 3
+            }
+        },
+        {
+            "user_id": "user_1",
+            "max_threat_score": 27,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 5,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_42",
+            "max_threat_score": 27,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 2,
+                "sensitivity": 20,
+                "anomaly": 4
+            }
+        },
+        {
+            "user_id": "user_70",
+            "max_threat_score": 27,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 2,
+                "sensitivity": 20,
+                "anomaly": 4
+            }
+        },
+        {
+            "user_id": "user_43",
+            "max_threat_score": 27,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 5,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_34",
+            "max_threat_score": 27,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 5,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_86",
+            "max_threat_score": 27,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 5,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_89",
+            "max_threat_score": 27,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 5,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_81",
+            "max_threat_score": 27,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 2,
+                "sensitivity": 20,
+                "anomaly": 5
+            }
+        },
+        {
+            "user_id": "user_92",
+            "max_threat_score": 27,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 2,
+                "sensitivity": 20,
+                "anomaly": 5
+            }
+        },
+        {
+            "user_id": "user_93",
+            "max_threat_score": 27,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 2,
+                "sensitivity": 20,
+                "anomaly": 4
+            }
+        },
+        {
+            "user_id": "user_57",
+            "max_threat_score": 27,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 3,
+                "sensitivity": 20,
+                "anomaly": 3
+            }
+        },
+        {
+            "user_id": "user_94",
+            "max_threat_score": 26,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 1,
+                "sensitivity": 20,
+                "anomaly": 4
+            }
+        },
+        {
+            "user_id": "user_76",
+            "max_threat_score": 26,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 1,
+                "sensitivity": 20,
+                "anomaly": 4
+            }
+        },
+        {
+            "user_id": "user_60",
+            "max_threat_score": 26,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 2,
+                "sensitivity": 20,
+                "anomaly": 3
+            }
+        },
+        {
+            "user_id": "user_26",
+            "max_threat_score": 26,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 2,
+                "sensitivity": 20,
+                "anomaly": 3
+            }
+        },
+        {
+            "user_id": "user_50",
+            "max_threat_score": 26,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 3,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_44",
+            "max_threat_score": 26,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 1,
+                "sensitivity": 20,
+                "anomaly": 5
+            }
+        },
+        {
+            "user_id": "user_83",
+            "max_threat_score": 26,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 1,
+                "sensitivity": 20,
+                "anomaly": 5
+            }
+        },
+        {
+            "user_id": "user_63",
+            "max_threat_score": 25,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 2,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_99",
+            "max_threat_score": 25,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 1,
+                "sensitivity": 20,
+                "anomaly": 4
+            }
+        },
+        {
+            "user_id": "user_36",
+            "max_threat_score": 25,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 1,
+                "sensitivity": 20,
+                "anomaly": 4
+            }
+        },
+        {
+            "user_id": "user_11",
+            "max_threat_score": 25,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 1,
+                "sensitivity": 20,
+                "anomaly": 4
+            }
+        },
+        {
+            "user_id": "user_5",
+            "max_threat_score": 25,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 1,
+                "sensitivity": 20,
+                "anomaly": 3
+            }
+        },
+        {
+            "user_id": "user_49",
+            "max_threat_score": 25,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 2,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        },
+        {
+            "user_id": "user_79",
+            "max_threat_score": 23,
+            "flag_count": 0,
+            "subscores": {
+                "volume": 0,
+                "frequency": 1,
+                "sensitivity": 20,
+                "anomaly": 2
+            }
+        }
+    ]
+}
