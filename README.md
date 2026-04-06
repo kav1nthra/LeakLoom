@@ -1,7 +1,4 @@
-# LeakLoom
-Real-time, application-layer IDS for HealthTech/FinTech. Detects authorized insider data exfiltration with sliding-window analytics, dynamic threat scoring, and live SSE dashboard.
-=======
-# LeakLoom IDS
+# LeakLoom 
 **The Lightweight Application-Layer Guardian for ePHI & Sensitive Data**
 
 **Core Tech:** Python 3.12 • `collections.deque` • Stateful Temporal Heuristics  
